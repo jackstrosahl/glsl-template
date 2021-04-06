@@ -1,6 +1,7 @@
 # GLSL Template
 
 Minimal setup for writing shaders, including:
+
 ✅ Live reloading dev server `npm start` from [budo](https://github.com/mattdesl/budo)
 
 ✅ Export for the web / GitHub pages `npm run build`, e.g [this repo's site](http://jack.strosahl.org/glsl-template/)
